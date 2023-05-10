@@ -9,7 +9,7 @@
     <img alt="Maven" src="https://img.shields.io/badge/maven-3.0.5-brightgreen.svg" />
 </a>
 </center>
-This project is a User management system built using Spring Boot with Java.
+This project is a Employee Address system built using Spring Boot with Java.
 
 ---
 
